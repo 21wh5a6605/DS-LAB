@@ -159,3 +159,81 @@ int main(){
         }
     }
 }
+
+
+output:-Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+1
+Enter the number of nodes: 2
+Enter the value to be entered into the data of the node:
+ 1 2
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+2
+Enter the element to be inserted: 3
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+3
+Enter the element to be inserted: 5
+Enter your choice
+1: create
+2: insert_begin
+3: insert_end
+4: insert_pos
+5: delete_begin
+6: delete_end
+7: delete_pos
+8: display
+9: reverse_display
+10: exit
+6
+Deleted element 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
